@@ -1,0 +1,9 @@
+p{
+     width: 50%;
+    font-size: 30px;
+    font-weight: bold;
+    background-color:aqua;
+    border: 10px solid red;
+    box-sizing: border-box;
+
+}
